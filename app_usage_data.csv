@@ -1,0 +1,49 @@
+app_package_name,minutes,category
+com.google.android.youtube,120,Watching Series
+com.netflix.mediaclient,90,Watching Series
+com.hulu.plus,60,Watching Series
+com.disney.disneyplus,75,Watching Series
+com.amazon.avod.thirdpartyclient,45,Watching Series
+com.hbomax,80,Watching Series
+com.crunchyroll,50,Watching Series
+com.plexapp.android,55,Watching Series
+com.mxtech.videoplayer.ad,40,Watching Series
+com.vimeo.android,30,Watching Series
+com.duolingo,60,Learning
+com.khanacademy.android,50,Learning
+com.coursera.android,70,Learning
+com.udemy.android,65,Learning
+com.ted.android,35,Learning
+com.codecademy.android,55,Learning
+com.sololearn,45,Learning
+com.quizlet.android,30,Learning
+com.edx.android,60,Learning
+com.lynda.android,55,Learning
+com.blinkist,30,Learning
+com.minecraft,90,Games
+com.pubg.krmobile,75,Games
+com.epicgames.fortnite,80,Games
+com.zynga.words2,50,Games
+com.clashofclans,55,Games
+com.angrybirds,50,Games
+com.stardewvalley,65,Games
+com.asphaltlegends,70,Games
+com.spotify.music,25,Music
+com.soundcloud.android,20,Music
+com.spotify.lite,15,Music
+com.gaana,25,Music
+com.musicplayer.musicapps,20,Music
+com.anghami,35,Music
+com.whatsapp,30,Social Media
+com.instagram.android,40,Social Media
+com.facebook.katana,50,Social Media
+com.twitter.android,35,Social Media
+com.snapchat.android,45,Social Media
+com.linkedin.android,30,Social Media
+com.reddit.frontpage,25,Social Media
+com.tumblr,20,Social Media
+com.pinterest,25,Social Media
+com.medium.android,30,Social Media
+com.telegram,35,Social Media
+com.slack,40,Social Media
+com.tiktok,50,Social Media

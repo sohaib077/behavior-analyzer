@@ -1,0 +1,1 @@
+web: gunicorn app_usage_classifier:app
